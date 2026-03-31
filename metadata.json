@@ -1,0 +1,5 @@
+{
+  "name": "Cafe Arusha",
+  "description": "A classic and attractive restaurant website for Cafe Arusha, featuring their menu, location, and elegant atmosphere.",
+  "requestFramePermissions": ["geolocation"]
+}
